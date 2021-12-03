@@ -122,3 +122,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+DAY1/.vs/
+
+DAY1/DAY1/bin/
+
+DAY1/DAY1/obj/
+
+DAY2/.vs/
+
+DAY2/DAY2/bin/Debug/
+
+DAY2/DAY2/obj/
+
+DAY3/DAY3/bin/
+
+DAY3/DAY3/obj/
+
+DAY3/.vs/
